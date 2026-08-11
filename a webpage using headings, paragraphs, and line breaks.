@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Headings and Paragraphs</title>
+</head>
+<body>
+
+    <h1>HTML</h1>
+    <h2>Introduction to HTML</h2>
+    <h3>What is HTML?</h3>
+
+    <p>
+        HTML stands for HyperText Markup Language.
+        It is used to create and structure webpages.
+    </p>
+
+    <p>
+        HTML uses different tags to display content on a webpage.<br>
+        It can be used to add headings, paragraphs, images, links, tables, and forms.
+    </p>
+
+</body>
+</html>
